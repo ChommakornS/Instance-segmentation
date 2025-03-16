@@ -57,8 +57,7 @@ The project is implemented as Jupyter notebooks designed to run in Google Colab:
 ```
 data_l2/
 ├── images/
-├── train.json
-└── val.json
+└── labels.json
 ```
 
 ## Model Training
