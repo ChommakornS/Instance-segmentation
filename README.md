@@ -37,10 +37,7 @@ The dataset for this project was prepared using FiftyOne, which facilitated:
 
 The project is implemented as Jupyter notebooks designed to run in Google Colab:
 
-1. Access the full implementation here:
-   [Instance Segmentation with Detectron2 Code](https://drive.google.com/file/d/1-OuPgBj0HxCuqzU_GdvyNPg7TCoilRLM/view?usp=drive_link)
-
-2. Install required dependencies in your Colab environment:
+1. Install required dependencies in your Colab environment:
 ```python
 !pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.9/index.html
 !pip install fiftyone
