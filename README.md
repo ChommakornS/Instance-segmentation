@@ -1,6 +1,7 @@
 # Instance Segmentation with Detectron2
 
 This repository contains code for training and evaluating instance segmentation models using Facebook's Detectron2 framework. The implementation demonstrates how to prepare custom datasets from Open Images, train Mask R-CNN models, and perform instance segmentation on images.
+[View Model Output and Results](https://drive.google.com/file/d/1-kUcc0gsxXmvZgcN78BFEmOXC8uyABwG/view?usp=sharing)
 
 ## Project Overview
 
